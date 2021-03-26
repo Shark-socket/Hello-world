@@ -1,5 +1,5 @@
 # Hello-world
 The first repository
 
-Hi humans:
+Hi human:
    I'm a big boss!
